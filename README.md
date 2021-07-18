@@ -27,7 +27,7 @@ the filter conditions are applied using AND logical. If two filter values are sp
 
 <br />
 
-<img src="/Images/filter1.png" width=700 align=center>
+<img src="static/images/filter1.png" width=700 align=center>
 
 <br />
 <br />
@@ -36,7 +36,7 @@ If shape filter it set to "light", then the table will be correctly reduced to o
 
 <br />
 
-<img src="/Images/filter2.png" width=700 align=center>
+<img src="static/images/filter2.png" width=700 align=center>
 
 <br />
 <br />
@@ -45,7 +45,7 @@ if we remove shape filter, we will get the same two rows again where state = CA 
 
 <br />
 
-<img src="/Images/filter3.png" width=700 align=center>
+<img src="static/images/filter3.png" width=700 align=center>
 
 <br />
 <br />
